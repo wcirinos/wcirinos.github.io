@@ -1,0 +1,13 @@
+---
+title: "Custos Assimétricos (Sticky Costs): Um Estudo Aplicado a Operadoras de Planos de Saúde da Modalidade de Medicina de Grupo"
+collection: publications
+permalink: /publication/Custos-Assimetricos-um-Estudo-a-Operadoras_de_Plano-de-Saude-da-Modalidade-Medicina-de-Grupo
+excerpt: 'O estudo objetivou analisar a forma como se comportam, em termos assimétricos, os custos das operadoras de plano de saúde (OPS) na modalidade de Medicina de Grupo no Brasil. Para isso, utilizou-se da técnica de regressão com dados em painel aplicada a 253 dessas OPS, de 2010 a 2016. Os resultados apontaram que, quando as receitas líquidas de vendas (RLV) aumentaram em 1%, os custos totais aumentaram 0,78%, porém, quando a RLV reduziu em 1% esses mesmos custos reduziram em 0,87%, demostrando um comportamento assimétrico dos custos das OPS. Ao considerar os custos dos serviços prestados e as despesas totais, os resultados também indicaram assimetria dos custos. Adicionalmente, a partir da análise das variações anuais ocorridas em ambos os componentes do resultado (gastos e receitas), constatou-se a existência de um comportamento de custos assimétricos, em que, as variações dos custos e despesas das OPS foram maiores que as variações das respectivas RLV.'
+date: 2019-08-01
+venue: 'Mundo Livre: Revista Multidisciplinar'
+citation: 'Avelar, E. A.; Rodrigues, T. L.; Silva, M. M. & Santos, W. C. (2019).&quot;Custos Assimétricos (Sticky Costs): Um Estudo Aplicado a Operadoras de Planos de Saúde da Modalidade de Medicina de Grupo.&quot;<i>Mundo Livre: Revista Multidisciplinar</i>. 5(2).'
+
+---
+O estudo objetivou analisar a forma como se comportam, em termos assimétricos, os custos das operadoras de plano de saúde (OPS) na modalidade de Medicina de Grupo no Brasil. Para isso, utilizou-se da técnica de regressão com dados em painel aplicada a 253 dessas OPS, de 2010 a 2016. Os resultados apontaram que, quando as receitas líquidas de vendas (RLV) aumentaram em 1%, os custos totais aumentaram 0,78%, porém, quando a RLV reduziu em 1% esses mesmos custos reduziram em 0,87%, demostrando um comportamento assimétrico dos custos das OPS. Ao considerar os custos dos serviços prestados e as despesas totais, os resultados também indicaram assimetria dos custos. Adicionalmente, a partir da análise das variações anuais ocorridas em ambos os componentes do resultado (gastos e receitas), constatou-se a existência de um comportamento de custos assimétricos, em que, as variações dos custos e despesas das OPS foram maiores que as variações das respectivas RLV.
+
+[Baixe o artigo aqui](https://periodicos.uff.br/mundolivre/article/view/40341/23217)
