@@ -1,7 +1,6 @@
 ---
 title: "Práticas de Gerenciamento de Resultados e a Iminência do Fechamento de Capital"
 collection: talks
-type: "Talk"
 permalink: /talks/praticas-de-gerenciamento-de-resultados-e-a-iminência-do-fechamento-de-capital
 venue: "XXI SEMEAD - Seminários em Administração"
 date: 2018-11-01
