@@ -1,5 +1,6 @@
 ---
 title: "Efeito da Qualidade do Lucro Sobre as Notas de Ratings de Crédito"
+type: "Congresso"
 collection: talks
 permalink: /talks/Efeito-da-Qualidade-do-Lucro-Sobre-as-Notas-de-Ratings-de-Credito
 venue: "ADCONT - Congresso Nacional de Administração e Ciências Contábeis / III EMAN Brasil: Environmental and Sustainability Management Accounting Network Brasil / Regional Americas"

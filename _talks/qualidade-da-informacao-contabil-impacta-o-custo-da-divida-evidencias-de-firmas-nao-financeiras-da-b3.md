@@ -1,7 +1,8 @@
 ---
 title: "Qualidade da Informação Contábil Impacta o Custo Da Dívida? Evidências de Firmas Não Financeiras da B3"
+type: "Congresso"
 collection: talks
-permalink: /talks/qualidade-da-informacao-contabil-impacta-o-custo-da-divida?-evidencias-de-firmas-nao-financeiras-da-b3
+permalink: /talks/qualidade-da-informacao-contabil-impacta-o-custo-da-divida-evidencias-de-firmas-nao-financeiras-da-b3
 venue: "XX USP International Conference in Accounting"
 date: 2020-07-29
 location: "São Paulo, SP"

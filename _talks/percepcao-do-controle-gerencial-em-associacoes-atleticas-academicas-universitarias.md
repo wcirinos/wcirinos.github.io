@@ -1,5 +1,6 @@
 ---
 title: "Percepção do Controle Gerencial em Associações Atléticas Acadêmicas Universitárias"
+type: "Encontro"
 collection: talks
 permalink: /talks/percepcao-do-controle-gerencial-em-associacoes-atleticas-academicas-universitarias
 venue: "EGEN - Encontro de Gestão e Negócios"

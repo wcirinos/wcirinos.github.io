@@ -1,7 +1,8 @@
 ---
 title: "Custos Assimétricos (Sticky Costs): Um Estudo Aplicado a Operadoras de Planos de Saúde da Modalidade de Medicina de Grupo"
+type: "Simpósio"
 collection: talks
-permalink: /talks/suavizacao-de-resultados-e-a-persistencia-dos-lucros-contabeis:-uma-analise-contemporanea-no-mercado-de-capitais-brasileiro
+permalink: /talks/custos-assimétricos-(sticky-costs)-um-estudo-aplicado-a-operadoras-de-planos-de-saúde-da-modalidade-de-medicina-de-grupo
 venue: "XXVI SIMPEP- Simpósio de Engenharia de Produção"
 date: 2019-11-06
 location: "São Paulo, SP"
